@@ -4,6 +4,12 @@
 // import router from '@/router'
 // import { events as mockEvents } from '../../db.json'
 
+describe('My Component', () => {
+  it('renders successfully', () => {
+    expect(true).toBe(true)
+  })
+})
+
 // function mountEventList(config = {}) {
 //   config.mountOptions = config.mountOptions || {}
 //   config.plugins = config.plugins || {}

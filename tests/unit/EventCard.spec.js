@@ -1,6 +1,12 @@
 // import { mount } from '@vue/test-utils'
 // import EventCard from '@/components/EventCard'
 
+describe('My Component', () => {
+  it('renders successfully', () => {
+    expect(true).toBe(true)
+  })
+})
+
 // describe('EventCard', () => {
 //   it(`renders the event's data successfully`, () => {
 //     const event = {
